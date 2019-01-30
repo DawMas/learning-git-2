@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(66, 66, 66);
+}
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    color: aliceblue;
+    text-align: left;
+}
+h1 {
+    color: rgb(199, 199, 10);
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+    padding: 10px 0;
+}
