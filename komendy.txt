@@ -1,2 +1,7 @@
 autoprefixer-cli -o style.prefixed.css style.css
+<<<<<<< HEAD
 nu-html-checker
+=======
+
+nu-html-checker cli -f <*.html>
+>>>>>>> task5
